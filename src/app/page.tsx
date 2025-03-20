@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -28,65 +29,56 @@ export default function Home() {
       {/* Navigation Section */}
       <div className="mt-12 grid text-center lg:w-full lg:max-w-6xl lg:grid-cols-4 lg:text-left">
         {/* Our Services */}
-        <a
-          href="/services"
-          className="group rounded-lg border border-transparent px-6 py-5 transition hover:border-blue-500 hover:bg-gray-100 hover:dark:border-blue-400 hover:dark:bg-neutral-800"
-        >
-          <h2 className="text-2xl font-semibold">Our Services</h2>
-          <p className="mt-2 text-gray-600 dark:text-gray-300">
-            Discover our SaaS solutions:  
-            <strong> FREIGHTRiX</strong> - Transport & Logistics SaaS  
-            <strong> RISKMiND</strong> - AI-Powered Risk Management
-          </p>
-        </a>
+        <Link href="/services">
+          <div className="group cursor-pointer rounded-lg border border-transparent px-6 py-5 transition hover:border-blue-500 hover:bg-gray-100 hover:dark:border-blue-400 hover:dark:bg-neutral-800">
+            <h2 className="text-2xl font-semibold">Our Services</h2>
+            <p className="mt-2 text-gray-600 dark:text-gray-300">
+              Discover our flagship SaaS system:  
+              <strong> FREIGHTRiX</strong> - Transport & Logistics SaaS
+            </p>
+          </div>
+        </Link>
 
         {/* About Us */}
-        <a
-          href="/about"
-          className="group rounded-lg border border-transparent px-6 py-5 transition hover:border-blue-500 hover:bg-gray-100 hover:dark:border-blue-400 hover:dark:bg-neutral-800"
-        >
-          <h2 className="text-2xl font-semibold">About Us</h2>
-          <p className="mt-2 text-gray-600 dark:text-gray-300">
-            THINKBiT is a software solutions company helping businesses worldwide
-            automate and streamline operations. Established in 2025, we provide AI-driven
-            insights, performance tracking, and efficiency tools to remove mundane tasks.
-          </p>
-        </a>
+        <Link href="/about">
+          <div className="group cursor-pointer rounded-lg border border-transparent px-6 py-5 transition hover:border-blue-500 hover:bg-gray-100 hover:dark:border-blue-400 hover:dark:bg-neutral-800">
+            <h2 className="text-2xl font-semibold">About Us</h2>
+            <p className="mt-2 text-gray-600 dark:text-gray-300">
+              Learn about THINKBiT and how we help businesses streamline operations with AI-driven automation.
+            </p>
+          </div>
+        </Link>
 
         {/* Contact Us */}
-        <a
-          href="/contact"
-          className="group rounded-lg border border-transparent px-6 py-5 transition hover:border-blue-500 hover:bg-gray-100 hover:dark:border-blue-400 hover:dark:bg-neutral-800"
-        >
-          <h2 className="text-2xl font-semibold">Contact Us</h2>
-          <p className="mt-2 text-gray-600 dark:text-gray-300">
-            (Under Construction) Reach out to us for inquiries, partnerships, or support.
-          </p>
-        </a>
+        <Link href="/contact">
+          <div className="group cursor-pointer rounded-lg border border-transparent px-6 py-5 transition hover:border-blue-500 hover:bg-gray-100 hover:dark:border-blue-400 hover:dark:bg-neutral-800">
+            <h2 className="text-2xl font-semibold">Contact Us</h2>
+            <p className="mt-2 text-gray-600 dark:text-gray-300">
+              Get in touch with us for inquiries, partnerships, or support.
+            </p>
+          </div>
+        </Link>
 
         {/* Pricing */}
-        <a
-          href="/pricing"
-          className="group rounded-lg border border-transparent px-6 py-5 transition hover:border-blue-500 hover:bg-gray-100 hover:dark:border-blue-400 hover:dark:bg-neutral-800"
-        >
-          <h2 className="text-2xl font-semibold">Pricing</h2>
-          <p className="mt-2 text-gray-600 dark:text-gray-300">
-            Get in touch to learn about our flexible pricing structure.  
-            We are looking for **beta testers** and offer commission incentives for referrals!
-          </p>
-        </a>
+        <Link href="/pricing">
+          <div className="group cursor-pointer rounded-lg border border-transparent px-6 py-5 transition hover:border-blue-500 hover:bg-gray-100 hover:dark:border-blue-400 hover:dark:bg-neutral-800">
+            <h2 className="text-2xl font-semibold">Pricing</h2>
+            <p className="mt-2 text-gray-600 dark:text-gray-300">
+              Get in touch to learn about our flexible pricing. We offer commissions for referrals!
+            </p>
+          </div>
+        </Link>
       </div>
 
       {/* Login Section */}
       <div className="mt-12 text-center">
-        <a
-          href="/login"
-          className="px-6 py-3 rounded-lg bg-blue-600 text-white font-semibold text-lg hover:bg-blue-700"
-        >
-          Login to Your Account
-        </a>
+        <Link href="/login">
+          <div className="inline-block px-6 py-3 rounded-lg bg-blue-600 text-white font-semibold text-lg cursor-pointer hover:bg-blue-700">
+            Login to Your Account
+          </div>
+        </Link>
         <p className="mt-2 text-gray-600 dark:text-gray-300">
-          Access your THINKBiT SaaS systems: <strong>FREIGHTRiX</strong> & <strong>RISKMiND</strong>.
+          Access your THINKBiT SaaS systems, including <strong>FREIGHTRiX</strong>.
         </p>
       </div>
     </main>
