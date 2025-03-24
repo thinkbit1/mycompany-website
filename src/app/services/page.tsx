@@ -18,15 +18,6 @@ export default function Services() {
             Designed for efficiency, automation, and data-driven decision-making**, FREIGHTRiX empowers logistics businesses to **streamline their operations and maximize performance**.
           </p>
 
-          <h3 className="text-xl font-semibold mt-4">Key Features of FREIGHTRiX:</h3>
-          <ul className="list-disc list-inside mt-2 text-gray-600 dark:text-gray-300">
-            <li><strong>AI-Powered Route Optimization</strong> – Reduce fuel costs and improve delivery efficiency with smart route planning.</li>
-            <li><strong>Real-Time Fleet Tracking</strong> – Gain full visibility into vehicle movements and optimize dispatching.</li>
-            <li><strong>Predictive Maintenance Alerts</strong> – Avoid breakdowns with AI-driven diagnostics that anticipate vehicle issues.</li>
-            <li><strong>Performance Analytics & Insights</strong> – Get detailed reports on driver efficiency, fuel consumption, and delivery times.</li>
-            <li><strong>Seamless Integration</strong> – Connect effortlessly with existing transport management systems and third-party apps.</li>
-          </ul>
-
           <p className="text-gray-600 dark:text-gray-300 mt-4">
             Whether you&apos;re managing a **small fleet** or overseeing a **global logistics operation**, **FREIGHTRiX** provides the intelligent automation and deep insights you need to run a high-performance business.
           </p>
