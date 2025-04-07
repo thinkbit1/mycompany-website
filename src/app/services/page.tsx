@@ -15,16 +15,16 @@ export default function Services() {
             <strong>Revolutionizing Transport & Logistics with AI</strong>
             <br /><br />
             At <strong>THINKBiT</strong>, we are redefining the transport and logistics industry with FREIGHTRiX – a cutting-edge, AI-powered Software as a Service (SaaS) platform. 
-            Designed for efficiency, automation, and data-driven decision-making**, FREIGHTRiX empowers logistics businesses to **streamline their operations and maximize performance**.
+            Designed for efficiency, automation, and data-driven decision-making, FREIGHTRiX empowers logistics businesses to streamline their operations and maximize performance.
           </p>
 
           <p className="text-gray-600 dark:text-gray-300 mt-4">
-            Whether you&apos;re managing a small fleet or overseeing a **global logistics operation**, FREIGHTRiX provides the intelligent automation and deep insights you need to run a high-performance business.
+            Whether you&apos;re managing a small fleet or overseeing a global logistics operation, FREIGHTRiX provides the intelligent automation and deep insights you need to run a high-performance business.
           </p>
 
           <h3 className="text-xl font-semibold mt-6">🚀 Transform Your Logistics Today!</h3>
           <p className="text-gray-600 dark:text-gray-300 mt-2">
-            Discover how **FREIGHTRiX** can help your company **operate more efficiently, improve transparency, and reduce costs**.
+            Discover how FREIGHTRiX can help your company operate more efficiently, improve transparency, and reduce costs.
           </p>
 
           <p className="text-gray-600 dark:text-gray-300 mt-4">

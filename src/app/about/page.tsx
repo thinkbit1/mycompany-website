@@ -10,28 +10,28 @@ export default function About() {
         <br /><br />
 
         <strong>Who We Are</strong> <br />
-        THINKBiT is a software solutions company dedicated to helping businesses **automate, optimize, and scale** using AI-powered technology. 
+        THINKBiT is a software solutions company dedicated to helping businesses automate, optimize, and scale using AI-powered technology. 
         Our mission is to eliminate mundane manual tasks, enhance operational efficiency, and provide powerful insights that drive business success.
         <br /><br />
 
         <strong>What We Do</strong> <br />
         ✅ Build AI-Powered SaaS Solutions – We create intelligent, data-driven platforms tailored for industries like transport, logistics, and risk management. <br />
         ✅ Enable Smarter Business Decisions – Our AI tools provide deep analytics and performance tracking for total operational visibility. <br />
-        ✅ Automate Repetitive Processes – We replace outdated, manual workflows with seamless automation for **higher productivity and cost savings**. <br /><br />
+        ✅ Automate Repetitive Processes – We replace outdated, manual workflows with seamless automation for higher productivity and cost savings. <br /><br />
 
         <strong>Our Vision</strong> <br />
-        🔹 Efficiency at Scale – We envision a world where businesses can **do more with less effort**, using AI to enhance efficiency and decision-making. <br />
-        🔹 Transparency & Accountability – We believe in **data-driven decision-making**, ensuring businesses have access to real-time performance insights. <br />
-        🔹 Innovation Through AI – We are committed to **pioneering new ways to leverage AI** for automation, predictive analytics, and strategic growth. <br />
+        🔹 Efficiency at Scale – We envision a world where businesses can do more with less effort, using AI to enhance efficiency and decision-making. <br />
+        🔹 Transparency & Accountability – We believe in data-driven decision-making, ensuring businesses have access to real-time performance insights. <br />
+        🔹 Innovation Through AI – We are committed to pioneering new ways to leverage AI for automation, predictive analytics, and strategic growth. <br />
         🔹 Customer-Centric Solutions – We prioritize intuitive, easy-to-use systems that solve real business challenges without unnecessary complexity. <br /><br />
 
         <strong>Why THINKBiT?</strong> <br />
-        ✔ AI-Driven Solutions – We leverage artificial intelligence to drive **better, faster, and smarter** decision-making. <br />
-        ✔ Industry Expertise – Our team understands the challenges businesses face and builds solutions that **deliver real results**. <br />
-        ✔ Scalable & Adaptable – Whether you&apos;re a startup or an enterprise, our technology **grows with your business**. <br /><br />
+        ✔ AI-Driven Solutions – We leverage artificial intelligence to drive better, faster, and smarter decision-making. <br />
+        ✔ Industry Expertise – Our team understands the challenges businesses face and builds solutions that deliver real results. <br />
+        ✔ Scalable & Adaptable – Whether you&apos;re a startup or an enterprise, our technology grows with your business. <br /><br />
 
         <strong>🚀 Join Us in Shaping the Future of Business Automation!</strong> <br />
-        Let&apos;s **innovate, automate, and scale together.** <br /><br />
+        Let&apos;s innovate, automate, and scale together. <br /><br />
 
         📩 <strong>Get in touch</strong> to learn more about THINKBiT and our AI-powered solutions.
       </div>
